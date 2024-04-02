@@ -1,3 +1,2 @@
 # generative_models
-some demos on generative models \n
-includes VAE_mnist, CVAE_mnist, DDPM_fashion_mnist
+Some demos on generative models including VAE_mnist, CVAE_mnist, DDPM_fashion_mnist
